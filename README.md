@@ -7,7 +7,7 @@ My career has allowed me to work across various technologies and methodologies, 
 
 ## Skills
 - **Front-End Development:**
-  - HTML5
+  -#E34F26 HTML5
   - CSS3
   - JavaScript
   - React
