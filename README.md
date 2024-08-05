@@ -12,6 +12,7 @@ My career has allowed me to work across various technologies and methodologies, 
   - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=black) JavaScript
   - ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black) React
   - ![Angular](https://img.shields.io/badge/Angular-%E03A3E?style=flat&logo=angular&logoColor=white) Angular
+  - ![Vue.js](https://vuejs.org/images/logo.png) Vue.js
 - **Back-End Development:**
   - ![Python](https://img.shields.io/badge/Python-%234B8BBE?style=flat&logo=python&logoColor=white) Python
   - ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white) Node.js
