@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 💻 Passionate about Linux, automation, and infrastructure.<br>
 🚀 Helping businesses scale securely with DevOps practices.<br>
-🎓 I also teach tech and English to Portuguese native IT professionals.
+🎓 I also teach tech and English for Portuguese native IT professionals.
 
 ---
 
@@ -40,15 +40,15 @@
 ### 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/giorgibastos">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="mailto:giorgicb@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
   </a>
-  <a href="mailto:giorgicb@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email Badge"/>
+  <a href="https://www.linkedin.com/in/giorgibastos" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/mrgiorgibastos/">
-    <img src="https://img.shields.io/badge/Website-red?logo=google-chrome&logoColor=white" alt="Website Badge"/>
-  </a>
+  <a href="https://www.instagram.com/mrgiorgibastos/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
+</a>
 </p>
 
 ---
