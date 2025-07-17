@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 💻 Passionate about Linux, automation, and infrastructure.<br>
 🚀 Helping businesses scale securely with DevOps practices.<br>
-🎓 I also teach tech and English for Portuguese native IT professionals.
+🎓 I also teach tech and English for Portuguese native IT professionals on Udemy.
 
 ---
 
