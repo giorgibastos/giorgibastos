@@ -14,7 +14,7 @@ I’m a passionate IT professional with over 10 years of experience in:
 - 🖥️ **Linux Systems Administration** (Debian, CentOS, Ubuntu, RHEL)
 - ☁️ **DevOps Practices** — CI/CD with Jenkins, Ansible automation, Docker containers
 - 🔒 **Infrastructure Security**, hardening, and high availability environments
-- 🧠 **Technical Training** — I teach English for Tech and deliver courses on platforms like Udemy
+- 🧠 **Technical Training** — I teach English to Portuguese-speaking IT professionals and deliver courses on Udemy.
 
 I specialize in building resilient, secure, and automated infrastructure systems for organizations looking to scale efficiently and securely. I’m also an enthusiastic tech educator, committed to helping professionals grow in global markets.
 
