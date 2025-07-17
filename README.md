@@ -49,6 +49,9 @@
   <a href="https://www.instagram.com/mrgiorgibastos/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
 </a>
+  <a href="https://www.udemy.com/user/giorgi-bastos/" target="_blank">
+  <img src="https://img.shields.io/badge/Udemy-A435F0?logo=Udemy&logoColor=white&style=for-the-badge" alt="Udemy Badge"/>
+</a>
 </p>
 
 ---
