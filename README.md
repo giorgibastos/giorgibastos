@@ -1,6 +1,26 @@
-## About Me
-Hello there, Padawans!
+# 👋 Hi, I'm Giorgi Bastos
 
-I am Giorgi Bastos, a Senior Software Engineer with extensive experience in UI/UX, Front-end web development, and Backend development.
+🔧 **Linux & DevOps Expert | SysAdmin | IT Infrastructure Consultant**  
+📍 Based in Araraquara, Brazil — Open to international opportunities  
+🌐 www.giorgibastos.com.br | 💼 [LinkedIn](https://www.linkedin.com/in/giorgibastos)  
+📧 giorgicb@gmail.com
 
-My career has allowed me to work across various technologies and methodologies, enabling me to build robust, user-centric applications. My background includes a deep understanding of both front-end and back-end development and expertise in modern frameworks and tools.
+---
+
+## 💡 About Me
+
+I’m a passionate IT professional with over 10 years of experience in:
+
+- 🖥️ **Linux Systems Administration** (Debian, CentOS, Ubuntu, RHEL)
+- ☁️ **DevOps Practices** — CI/CD with Jenkins, Ansible automation, Docker containers
+- 🔒 **Infrastructure Security**, hardening, and high availability environments
+- 🧠 **Technical Training** — I teach English for Tech and deliver courses on platforms like Udemy
+
+I specialize in building resilient, secure, and automated infrastructure systems for organizations looking to scale efficiently and securely. I’m also an enthusiastic tech educator, committed to helping professionals grow in global markets.
+
+---
+
+## 🛠️ Tech Stack
+
+```bash
+Linux | Bash | Docker | Ansible | Jenkins | Zabbix | Grafana | ELK Stack | Proxmox | VMware | AWS | Git
