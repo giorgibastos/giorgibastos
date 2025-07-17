@@ -1,26 +1,57 @@
-# 👋 Hi, I'm Giorgi Bastos
 
-🔧 **Linux & DevOps Expert | SysAdmin | IT Infrastructure Consultant**  
-📍 Based in Araraquara, Brazil — Open to international opportunities  
-💼 [LinkedIn](https://www.linkedin.com/in/giorgibastos)  
-📧 giorgicb@gmail.com
+<h1 align="center">Hi, I'm Giorgi Bastos 👋</h1>
 
----
-
-## 💡 About Me
-
-I’m a passionate IT professional with over 10 years of experience in:
-
-- 🖥️ **Linux Systems Administration** (Debian, CentOS, Ubuntu, RHEL)
-- ☁️ **DevOps Practices** — CI/CD with Jenkins, Ansible automation, Docker containers
-- 🔒 **Infrastructure Security**, hardening, and high availability environments
-- 🧠 **Technical Training** — I teach English to Portuguese-speaking IT professionals and deliver courses on Udemy.
-
-I specialize in building resilient, secure, and automated infrastructure systems for organizations looking to scale efficiently and securely. I’m also an enthusiastic tech educator, committed to helping professionals grow in global markets.
+<p align="center">
+🔧 <strong>Linux & DevOps Expert | SysAdmin | IT Infrastructure Consultant</strong><br>
+🌍 Araraquara, Brazil — Open to international opportunities<br>
+📧 giorgicb@gmail.com • 🌐 <a href="https://www.giorgibastos.com.br">giorgibastos.com.br</a> • <a href="https://www.linkedin.com/in/giorgibastos">LinkedIn</a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 👨‍💻 About Me
+💻 Passionate about Linux, automation, and infrastructure.<br>
+🚀 Helping businesses scale securely with DevOps practices.<br>
+🎓 I also teach tech and English for IT professionals.
 
-```bash
-Linux | Bash | Docker | Ansible | Jenkins | Zabbix | Grafana | ELK Stack | Proxmox | VMware | AWS | Git
+---
+
+### 🧰 Tech Stack
+💽 Linux (Debian, Ubuntu, RHEL) • ⚙️ Proxmox • 🐳 Docker • 🔧 Ansible • 🧪 Jenkins • 📡 Zabbix • 📈 Grafana • ☁️ AWS
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=giorgibastos&show_icons=true&theme=radical" alt="Giorgi's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgibastos&layout=compact&theme=radical" alt="Top Langs" height="150"/>
+</p>
+
+---
+
+### 🌱 Currently Working On
+
+- Advanced Linux training and infrastructure automation
+- New Udemy course: *Infrastructure as Code with Ansible*
+- Homelab projects with monitoring, backups and IaC
+
+---
+
+### 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/giorgibastos">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:giorgicb@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.giorgibastos.com.br">
+    <img src="https://img.shields.io/badge/Website-grey?logo=google-chrome&logoColor=white" alt="Website Badge"/>
+  </a>
+</p>
+
+---
+
+> “Technology is only powerful when shared. I believe in building and teaching.” – *Giorgi Bastos*
