@@ -2,7 +2,7 @@
 
 🔧 **Linux & DevOps Expert | SysAdmin | IT Infrastructure Consultant**  
 📍 Based in Araraquara, Brazil — Open to international opportunities  
-🌐 www.giorgibastos.com.br | 💼 [LinkedIn](https://www.linkedin.com/in/giorgibastos)  
+💼 [LinkedIn](https://www.linkedin.com/in/giorgibastos)  
 📧 giorgicb@gmail.com
 
 ---
