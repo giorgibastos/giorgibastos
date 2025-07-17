@@ -4,7 +4,7 @@
 <p align="center">
 🔧 <strong>Linux & DevOps Expert | SysAdmin | IT Infrastructure Consultant</strong><br>
 🌍 Araraquara, Brazil — Open to international opportunities<br>
-📧 giorgicb@gmail.com • 🌐 <a href="https://www.giorgibastos.com.br">giorgibastos.com.br</a> • <a href="https://www.linkedin.com/in/giorgibastos">LinkedIn</a>
+📧 giorgicb@gmail.com • <a href="https://www.linkedin.com/in/giorgibastos">LinkedIn</a>
 </p>
 
 ---
@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 💻 Passionate about Linux, automation, and infrastructure.<br>
 🚀 Helping businesses scale securely with DevOps practices.<br>
-🎓 I also teach tech and English for IT professionals.
+🎓 I also teach tech and English to Portuguese native IT professionals.
 
 ---
 
@@ -33,7 +33,6 @@
 ### 🌱 Currently Working On
 
 - Advanced Linux training and infrastructure automation
-- New Udemy course: *Infrastructure as Code with Ansible*
 - Homelab projects with monitoring, backups and IaC
 
 ---
@@ -47,11 +46,11 @@
   <a href="mailto:giorgicb@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://www.giorgibastos.com.br">
-    <img src="https://img.shields.io/badge/Website-grey?logo=google-chrome&logoColor=white" alt="Website Badge"/>
+  <a href="https://www.instagram.com/mrgiorgibastos/">
+    <img src="https://img.shields.io/badge/Website-red?logo=google-chrome&logoColor=white" alt="Website Badge"/>
   </a>
 </p>
 
 ---
 
-> “Technology is only powerful when shared. I believe in building and teaching.” – *Giorgi Bastos*
+> “Technology is only powerful when shared. I believe in building and teaching. So, champion your people before calling it a day” – *Giorgi Bastos*
