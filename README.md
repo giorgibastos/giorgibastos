@@ -32,27 +32,19 @@
 
 ### 🌱 Currently Working On
 
-- Advanced Linux training and infrastructure automation
-- Homelab projects with monitoring, backups and IaC
+- Advanced Linux training and infrastructure automation.
+- Homelab projects with monitoring, backups and IaC.
+- Enhancing Networking knowledge.
 
 ---
 
-### 🌐 Let's Connect
+## 🌐 Let's Connect
 
-<p align="left">
-  <a href="mailto:giorgicb@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/giorgibastos" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/mrgiorgibastos/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
-</a>
-  <a href="https://www.udemy.com/user/giorgi-bastos/" target="_blank">
-  <img src="https://img.shields.io/badge/Udemy-A435F0?logo=Udemy&logoColor=white&style=for-the-badge" alt="Udemy Badge"/>
-</a>
-</p>
+[![Meu Site](https://img.shields.io/badge/Meu%20Site-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://www.giorgibastos.com.br)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giorgibastos.tech@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgibastos/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu_usuario_aqui)
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/seu-usuario-aqui)
 
 ---
 
